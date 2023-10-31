@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: arial;
+    font-size: 18pt;
+    background-image: url("https://raw.githubusercontent.com/micktorres04/EECS348_Lab7/main/background.png");
+    background-size: 100%;
+}
+
